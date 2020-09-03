@@ -1,6 +1,12 @@
 # The Mirage Source v3.0.3
 This repository contains the original Visual Basic 6 open source code for Mirage Online. The source code here is provided as is and lives here for reference only.
 
+### Support & Community
+
+The glory days may be long gone, but there is still an active community on Discord:
+
+https://discord.gg/ReADKQJ
+
 ### Working from source
 Mirage Online was written in Visual basic 6, which means in order to build, debug and release the code you will need to get hold of Visual Studio 6, which is an old and very dated microsoft IDE build specifically for VB6 developers. Visual Studio 6 is:
  
