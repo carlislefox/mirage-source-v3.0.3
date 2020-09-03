@@ -23,6 +23,6 @@ As this is a Visual Basic 6 project, in order for players to be able to run the 
 ### Tutorials
 The Mirage Source fostered a large community of amateur developers who all banded together to expand upon the original source code, one of the biproducts of this was a large number of tutorials shared on the community forums that explained how to add certain features or change things in certain ways.
 
-A lot of this unfortunately has been lost to the sands of time, however all of the historic tutorials to come out of the community that I can find have been converted to markdown and can be found in the ```tutorials``` folder. GitHub renders markdown files really well so they can be browsed easily online :)
+A lot of this unfortunately has been lost to the sands of time, however all of the historic tutorials to come out of the community that I can find are in the process of being converted to markdown and can be found in the ```tutorials``` folder. GitHub renders markdown files really well so they can be browsed easily online :)
 
-If you have some tutorials stashed away somewhere from back in the day that are missing from the repository, please convert them using the existing ones as a template and submit a pull request to get them preserved here!
+This is a labour of love and a lot of work, if you have some tutorials stashed away somewhere from back in the day that are missing from the repository, please convert them using the existing ones as a template and submit a pull request to get them preserved here!
