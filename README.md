@@ -1,2 +1,2 @@
-# mirage-source
-The v3.0.3 Mirage Source
+# The Mirage Source
+This repository contains the original Visual Basic 6 source code for v3.0.3 of Mirage. Graphical resources have been omitted as they were largely rips from console games of the era :)

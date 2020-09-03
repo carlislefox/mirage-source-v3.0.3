@@ -1,0 +1,202 @@
+[Root]
+Most Recent Package=Standard Setup Package 1
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\mirage\client\Package (2)
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+music7.mid=C:\mirage\client\music7.mid
+
+[Package|Standard Setup Package 1|Files Released]
+music8.mid=
+music9.mid=
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINNT\system32\dx7vb.dll=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\Richtx32.ocx=
+
+[Package|Standard Setup Package 1|Files Added]
+c:\mirage\client\items.bmp=
+c:\mirage\client\sprites.bmp=
+c:\mirage\client\tiles.bmp=
+c:\mirage\client\music10.mid=
+c:\mirage\client\music11.mid=
+c:\mirage\client\music12.mid=
+c:\mirage\client\music13.mid=
+c:\mirage\client\music14.mid=
+c:\mirage\client\music15.mid=
+c:\mirage\client\music16.mid=
+c:\mirage\client\music2.mid=
+c:\mirage\client\music3.mid=
+c:\mirage\client\music4.mid=
+c:\mirage\client\music5.mid=
+c:\mirage\client\music6.mid=
+music7.mid=
+c:\mirage\client\music1.mid=
+C:\mirage\client\music8.mid=
+C:\mirage\client\music9.mid=
+
+[Package|Standard Setup Package 1|Files Removed]
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\mirage\client\Mirage.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\WINNT\system32\MSJET35.DLL=Yes
+C:\WINNT\system32\MSJTER35.DLL=Yes
+C:\WINNT\system32\MSJINT35.DLL=Yes
+C:\WINNT\system32\vbajet32.dll=Yes
+C:\WINNT\system32\expsrv.dll=Yes
+C:\WINNT\system32\MSRD2X35.DLL=Yes
+C:\WINNT\system32\MSREPL35.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\WINNT\system32\VB5DB.DLL=Yes
+C:\WINNT\system32\dx7vb.dll=Yes
+C:\WINNT\system32\MSWINSCK.OCX=Yes
+C:\WINNT\system32\Richtx32.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\mirage\client\Items.bmp=Yes
+C:\mirage\client\Sprites.bmp=Yes
+C:\mirage\client\Tiles.bmp=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\mirage\client\music9.mid=Yes
+C:\mirage\client\music10.mid=Yes
+C:\mirage\client\music11.mid=Yes
+C:\mirage\client\music12.mid=Yes
+C:\mirage\client\music13.mid=Yes
+C:\mirage\client\music14.mid=Yes
+C:\mirage\client\music15.mid=Yes
+C:\mirage\client\music16.mid=Yes
+C:\mirage\client\music2.mid=Yes
+C:\mirage\client\music3.mid=Yes
+C:\mirage\client\music4.mid=Yes
+C:\mirage\client\music5.mid=Yes
+C:\mirage\client\music6.mid=Yes
+C:\mirage\client\music7.mid=Yes
+C:\mirage\client\music8.mid=Yes
+C:\mirage\client\music1.mid=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\mirage\client\Mirage.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINNT\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINNT\system32\dx7vb.dll=$(WinSysPath)
+C:\WINNT\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINNT\system32\Richtx32.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\mirage\client\Items.bmp=$(AppPath)
+C:\mirage\client\Sprites.bmp=$(AppPath)
+C:\mirage\client\Tiles.bmp=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\mirage\client\music9.mid=$(AppPath)
+C:\mirage\client\music10.mid=$(AppPath)
+C:\mirage\client\music11.mid=$(AppPath)
+C:\mirage\client\music12.mid=$(AppPath)
+C:\mirage\client\music13.mid=$(AppPath)
+C:\mirage\client\music14.mid=$(AppPath)
+C:\mirage\client\music15.mid=$(AppPath)
+C:\mirage\client\music16.mid=$(AppPath)
+C:\mirage\client\music2.mid=$(AppPath)
+C:\mirage\client\music3.mid=$(AppPath)
+C:\mirage\client\music4.mid=$(AppPath)
+C:\mirage\client\music5.mid=$(AppPath)
+C:\mirage\client\music6.mid=$(AppPath)
+C:\mirage\client\music7.mid=$(AppPath)
+C:\mirage\client\music8.mid=$(AppPath)
+C:\mirage\client\music1.mid=$(AppPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\mirage\client\Mirage.exe=No
+C:\mirage\client\Items.bmp=No
+C:\mirage\client\Sprites.bmp=No
+C:\mirage\client\Tiles.bmp=No
+C:\mirage\client\music9.mid=No
+C:\mirage\client\music10.mid=No
+C:\mirage\client\music11.mid=No
+C:\mirage\client\music12.mid=No
+C:\mirage\client\music13.mid=No
+C:\mirage\client\music14.mid=No
+C:\mirage\client\music15.mid=No
+C:\mirage\client\music16.mid=No
+C:\mirage\client\music2.mid=No
+C:\mirage\client\music3.mid=No
+C:\mirage\client\music4.mid=No
+C:\mirage\client\music5.mid=No
+C:\mirage\client\music6.mid=No
+C:\mirage\client\music7.mid=No
+C:\mirage\client\music8.mid=No
+C:\mirage\client\music1.mid=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Mirage Online
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\mirage\client\Package (2)
+ProjectFolder=C:\mirage\client
+ServerSideCab=
+File1=C:\mirage\client\Package (2)\setup.exe
+File2=C:\mirage\client\Package (2)\Setup.Lst
+File3=C:\mirage\client\Package (2)\Mirage.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Mirage Online
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Mirage Online]
+Icon1=Mirage.exe
+Title1=Mirage Online
+StartIn1=$(AppPath)
+Key1=Icon1

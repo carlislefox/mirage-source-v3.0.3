@@ -1,0 +1,27 @@
+4:42:43 AM: Consty has warped to Shini, map #900.
+4:42:59 AM: Consty warped to map #1.
+4:43:44 AM: Shini has warped to Consty, map #348.
+4:56:40 AM: Shini warped to map #900.
+6:03:10 AM: Golbez has warped to Tien, map #65.
+6:03:35 AM: Golbez has respawned map #66
+6:03:40 AM: (global) Golbez: next
+6:04:43 AM: Golbez has respawned map #66
+6:04:49 AM: (global) Golbez: next
+6:05:10 AM: (global) Golbez: next
+6:05:34 AM: Golbez has respawned map #66
+6:05:54 AM: (global) Golbez: next
+6:05:56 AM: Golbez has respawned map #66
+6:06:36 AM: (global) Golbez: next in line
+6:06:47 AM: (global) Golbez: next
+6:06:51 AM: Golbez has respawned map #66
+6:06:58 AM: (global) Golbez: anyone else left?
+6:07:19 AM: (global) Golbez: there was a huge line in the forest quest so i'm getting the line down
+6:07:41 AM: Golbez has respawned map #66
+7:56:02 AM: Golbez has warped to Redneck, map #993.
+8:56:56 AM: Golbez editing npc #22.
+8:57:53 AM: Golbez warped to map #1.
+8:58:02 AM: Golbez warped to map #1.
+8:58:32 AM: Golbez warped to map #994.
+8:59:07 AM: Golbez editing npc #32.
+8:59:43 AM: Golbez editing npc #22.
+9:00:04 AM: (global) Golbez: bleh bbl
