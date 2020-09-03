@@ -56,11 +56,13 @@ Data3 As Integer
 End Type
 ```
 
-> 'Mask2 As Integer' will hold the Mask2 Layer  
-> 'M2Anim As Integer' will hold the Mask2 Animation Layer  
-> 'FAnim As Integer' will hold the Fringe1 Animation Layer  
-> 'Fringe2 As Integer' will hold the Fringe2 Layer  
-> 'F2Anim As Integer' will hold the Fringe2 Animation Layer  
+So you can see here that:
+
+* 'Mask2 As Integer' will hold the Mask2 Layer  
+* 'M2Anim As Integer' will hold the Mask2 Animation Layer  
+* 'FAnim As Integer' will hold the Fringe1 Animation Layer  
+* 'Fringe2 As Integer' will hold the Fringe2 Layer  
+* 'F2Anim As Integer' will hold the Fringe2 Animation Layer  
 
 Now search for (still in ```modTypes```)
 
