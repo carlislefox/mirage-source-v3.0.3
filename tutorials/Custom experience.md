@@ -39,15 +39,15 @@ Public ExpReq() As Long
 In sub LoadGameData, under the line :
 
 ```vba
-    Call SetStatus("Loading spells...")
-    Call LoadSpells
+Call SetStatus("Loading spells...")
+Call LoadSpells
 ```
 
 Add the following :
 
 ```vba
-    Call SetStatus("Loading experience values...")
-    Call LoadExperience
+Call SetStatus("Loading experience values...")
+Call LoadExperience
 ```
 
 #### modDatabase
@@ -82,16 +82,16 @@ End Function
 Lastly, find the sub `CheckPlayerLevelUp`. Right under the line :
 
 ```vba
-    If GetPlayerExp(Index) >= GetPlayerNextLevel(Index) Then
+If GetPlayerExp(Index) >= GetPlayerNextLevel(Index) Then
 ```
 
 Add the following code snippet, this will prevent players from leveling over the max level:
 
 ```vba
-        If GetPlayerLevel(Index) = UBound(ExpReq) Then
-            Call SetPlayerExp(Index, GetPlayerNextLevel(Index))
-            Exit Sub
-        End If
+If GetPlayerLevel(Index) = UBound(ExpReq) Then
+    Call SetPlayerExp(Index, GetPlayerNextLevel(Index))
+    Exit Sub
+End If
 ```
 
 And there you go! You can now place your own custom experience values! Another simple way to do this is through the GetPlayerNextLevel function, if you replace it with your own formula, thus eliminating the need for a file :). Enjoy! Try it out, and if you have any questions or need any help, feel free to ask! :)
