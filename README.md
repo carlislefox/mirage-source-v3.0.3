@@ -19,9 +19,10 @@ For these reasons I am comfortable hosting a mirror to a version I know works:
 
 http://www.miragerealms.co.uk/downloads/visual-studio-6.rar
 
-Getting this to work on Windows 10 can be... an ordeal. Fortunately someone has built a companion tool specifically for installing VS6 on Windows 10 with minimal effort, so if you want to relive the glory days you can get a free companion installer that will take all the pain from getting it running on Windows 10 on this rather dodgey looking website here:
+### Known issues
 
-http://nuke.vbcorner.net/Articles/VB60/VisualStudio6Installer/tabid/93/language/en-US/Default.aspx
+* VS6 will always complain about being unable to write to the registry on startup
+* The client will not run without having ran the executable in _tools_ to register the dx7 dll
 
 ### Distributing your game to players
 As this is a Visual Basic 6 project, in order for players to be able to run the client on modern windows machines they will need to have the VB6 runtime libs installed. Fortunately, a developer by the name of Aydan has put together a small one-click installer that makes this a non-issue - you can find the executable in the ```tools``` folder.
