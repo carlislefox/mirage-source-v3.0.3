@@ -10,7 +10,7 @@ Sub TcpInit()
     END_CHAR = Chr(237)
     PlayerBuffer = ""
         
-    frmMirage.Socket.RemoteHost = "65.33.125.77"
+    frmMirage.Socket.RemoteHost = "localhost"
     frmMirage.Socket.RemotePort = GAME_PORT
 End Sub
 
